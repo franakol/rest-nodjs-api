@@ -14,6 +14,10 @@ Database setup install postgres driver and sequelize by runing the code blow
 ``` 
 $ npm install sequelize pg
 ```
+Run Migration
+``` 
+$ npx sequelize-cli db:migrate
+```
 
 Run the api
 ```
