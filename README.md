@@ -12,6 +12,6 @@ $ cd https://github.com/franakol/rest-nodjs-api.git
 
 
 Run the api
-```
+
 $ npm start
 ```
