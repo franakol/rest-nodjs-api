@@ -1,0 +1,10 @@
+node_modules
+build
+npm-debug.log
+.nyc
+.env
+.DS_Store
+.vscode
+.cache/
+.tmp/
+migrations/git sta
