@@ -10,6 +10,10 @@ Enter the project folder
 ``` 
 $ cd https://github.com/franakol/rest-nodjs-api.git
 ```
+Database setup install postgres driver and sequelize by runing the code blow
+``` 
+$ npm install sequelize pg
+```
 
 Run the api
 ```
